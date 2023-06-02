@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript Массивы</h2>
+
+<p id="demo"></p>
+
+<script>
+var cars = ["Сааб", "Вольво", "БМВ"];
+document.getElementById("demo").innerHTML = cars;
+</script>
+
+</body>
+</html>
